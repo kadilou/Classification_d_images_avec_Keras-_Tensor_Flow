@@ -1,5 +1,4 @@
-Partie 01 :
-Le projet choisi : Classification d’images avec Keras / Tensor Flow
+ Classification d’images avec Keras / Tensor Flow
 Il s’agit de chargement et traitement d'un jeu de données non structuré de type image
 Ce projet suit le workflow suivant :
 1.	Exploration et compréhension des données
@@ -22,9 +21,6 @@ Matplotlib, PIL
 
 
 
-Partie 02 :
-
-
  
 Ce projet vise à classer des images de fleurs en utilisant Keras / TensorFlow. 
 Voici un résumé des étapes suivies dans ce projet :
@@ -38,7 +34,7 @@ Voici un résumé des étapes suivies dans ce projet :
 - Un ensemble de formation et un ensemble de validation sont construits à partir des images chargées.
 
 3. Visualisation des données :
-- Les neuf premières images de l'ensemble de formation sont affichées.
+- Afficher des images en utilisant La bibliothèque PIL  (neuf premières images de l'ensemble de formation sont affichées).
 
 4. Configuration des performances de l'ensemble de données :
 - Des méthodes telles que Dataset.cache et Dataset.prefetch sont utilisées pour optimiser les performances lors du chargement des données.
